@@ -1,0 +1,17 @@
+Universidade Salvador - Unifacs
+Matéria: Sistemas Distribuídos 
+Professor: Wellington Lacerda 				  
+Alunos e RA: 
+Débora Menezes Silva - 1272116955
+Éric Silva dos Santos - 1272122170
+Jean Willian Teixeira Francisco - 1272228186
+
+1- Primeiro criar a pasta .env com um: DATABASE_CONNECTION=url mongo (irá copiar a url que esta no no mongodb)
+
+2- abrir o cmd da pasta e digitar: pip install -r requeriments.txt
+
+3- Em seguida: pip install certifi
+
+4- E por fim: pip install python-dotenv
+
+5- Rodar o projeto main
